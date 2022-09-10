@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Graphql, Aws**
 
-- 💬 Ask me about **React.js, Redux, Next.js, Express.js,MongodbMongodb,Wordpress,Node.js**
+- 💬 Ask me about **React.js, Redux, Next.js, Express.js, Mongodb, Wordpress, Node.js**
 
 - 📫 How to reach me **mdrakibul.dev@gmail.com**
 
